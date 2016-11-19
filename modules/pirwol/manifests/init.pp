@@ -1,0 +1,3 @@
+class pirwol {
+		class { 'firewall': }
+}
